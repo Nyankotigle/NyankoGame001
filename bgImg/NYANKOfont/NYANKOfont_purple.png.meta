@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 15bc76d97e7789b4ba6328ae9e5b9bb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2543450033357210077
+    second: NYANKOfont_purple_0
+  - first:
+      213: -2022905221635372681
+    second: NYANKOfont_purple_1
+  - first:
+      213: 168191822358719357
+    second: NYANKOfont_purple_2
+  - first:
+      213: -3204268222930245566
+    second: NYANKOfont_purple_3
+  - first:
+      213: 7728568058637903141
+    second: NYANKOfont_purple_4
+  - first:
+      213: -1344144797129399655
+    second: NYANKOfont_purple_5
+  - first:
+      213: 3779108368792179807
+    second: NYANKOfont_purple_6
+  - first:
+      213: 1388243008467675891
+    second: NYANKOfont_purple_7
+  - first:
+      213: 7733735571307925559
+    second: NYANKOfont_purple_8
+  - first:
+      213: -6631972547456232324
+    second: NYANKOfont_purple_9
+  - first:
+      213: 1552108071515743723
+    second: NYANKOfont_purple_10
+  - first:
+      213: -2841565355138129490
+    second: NYANKOfont_purple_11
+  - first:
+      213: -6176046397336316671
+    second: NYANKOfont_purple_12
+  - first:
+      213: -7822971366027462681
+    second: NYANKOfont_purple_13
+  - first:
+      213: -5377970614247821208
+    second: NYANKOfont_purple_14
+  - first:
+      213: -8087556319764738299
+    second: NYANKOfont_purple_15
+  - first:
+      213: -6626606648968139792
+    second: NYANKOfont_purple_16
+  - first:
+      213: 5929695983692273451
+    second: NYANKOfont_purple_17
+  - first:
+      213: -4642898755832714732
+    second: NYANKOfont_purple_18
+  - first:
+      213: 8616108696088141093
+    second: NYANKOfont_purple_19
+  - first:
+      213: -384477183591974945
+    second: NYANKOfont_purple_20
+  - first:
+      213: -6535087085322048372
+    second: NYANKOfont_purple_21
+  - first:
+      213: -4287584098912155665
+    second: NYANKOfont_purple_22
+  - first:
+      213: -7182527669013724618
+    second: NYANKOfont_purple_23
+  - first:
+      213: -56686801330386788
+    second: NYANKOfont_purple_24
+  - first:
+      213: -7227659925862304464
+    second: NYANKOfont_purple_25
+  - first:
+      213: -5828277750631824433
+    second: NYANKOfont_purple_26
+  - first:
+      213: 743067609897561825
+    second: NYANKOfont_purple_27
+  - first:
+      213: -8282035220733258893
+    second: NYANKOfont_purple_28
+  - first:
+      213: 7016350393217713130
+    second: NYANKOfont_purple_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 550
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NYANKOfont_purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2750
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e13cc2537d344babc2f413e89d358
+      internalID: 2543450033357210077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2750
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b8145fc403cb043a3ec348b15ca15a
+      internalID: -2022905221635372681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2750
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140186d50f3169d4aa625be5075cea8b
+      internalID: 168191822358719357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2750
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b3647afed154b4c8c256e43e18f413
+      internalID: -3204268222930245566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2750
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24eb7d2983ab97942a35aa69b34a05be
+      internalID: 7728568058637903141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4914189fa1c3f24fbae041938a427f2
+      internalID: -1344144797129399655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2200
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721dd59dc50eab148926181e605060c9
+      internalID: 3779108368792179807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_7
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2200
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec4279cdc344b84598f59d0c0c1ea0d
+      internalID: 1388243008467675891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_8
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2200
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10691cdd85fb2de4bae2db0ab262c7e1
+      internalID: 7733735571307925559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_9
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2200
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749dcfd149f195d48bda539b639c260b
+      internalID: -6631972547456232324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1650
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59efcfc6c71a94641a106804875a53ac
+      internalID: 1552108071515743723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1650
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19b905efb9a4d489382da17522ef32
+      internalID: -2841565355138129490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_12
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1650
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075767ea55668424ba9277d477f66340
+      internalID: -6176046397336316671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1650
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411fc4c6408f97498b70a1e31fb9cd1
+      internalID: -7822971366027462681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_14
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1650
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54b65cdc7cfa44bbd8b02df1a3430b
+      internalID: -5377970614247821208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18128a901ae277944947d7b0ef0c65f1
+      internalID: -8087556319764738299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1100
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751571ae39ca065489810bb18bb7783f
+      internalID: -6626606648968139792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1100
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c86efa27976648a0e8936c04635ee
+      internalID: 5929695983692273451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_18
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1100
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f788ced49a600704f90066b98919de08
+      internalID: -4642898755832714732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_19
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1100
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39685a58700dbc04082d97870f31c300
+      internalID: 8616108696088141093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af6c8ea16c3bd49801f3f55ba4897a
+      internalID: -384477183591974945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_21
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85184b547beb1f4c8e2ed87f672bbe3
+      internalID: -6535087085322048372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_22
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f81f16a03fb0154ebadf36462cc06fc
+      internalID: -4287584098912155665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_23
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df4e70084df804f9e12f0d3d8fa868
+      internalID: -7182527669013724618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_24
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 550
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312e4c3e6f87a3e44917b652b8fecb59
+      internalID: -56686801330386788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2bebd603bab734a94dbdbc49bae0ac
+      internalID: -7227659925862304464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3957c3e6520d24986739754dff7cf4
+      internalID: -5828277750631824433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_27
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad21cb43e5e602f4ba408fa8f28fa3fe
+      internalID: 743067609897561825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_28
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d751c6a907e44fb68f0f7e37deeb6
+      internalID: -8282035220733258893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NYANKOfont_purple_29
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa2d8ae3b902714e9fce95f32158e7f
+      internalID: 7016350393217713130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
